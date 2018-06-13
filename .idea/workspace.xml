@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88545dc2-c273-42ec-ab01-2577fb000cae" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/.nvmrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/CODE_OF_CONDUCT.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/footer.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/pages/about.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/pages/contribute.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/ace.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/acrylamid.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/adm-dev-kit.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/amsf.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/anodize.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/antwar.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/asimov-static.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/assemble.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/awestruct.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/bake.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/baker.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/bang.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/bashblog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blackhole.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blacksmith.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blended.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blog.sh.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blogc.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blogdown.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blogo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/blogofile.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/bolt.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/bookdown_php.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/bookdown_r.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/bootdown.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/broccoli-taco.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/brunch.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/cabin.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/cactus.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/carew.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/cobalt.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/coil.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/coleslaw.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/coppersmith.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/cory.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/couscous.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/cryogen.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/cuttlebelle.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/dapper.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/deadsimplelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/dimples.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/django-distill.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/docfx.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/docpad.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/docusaurus.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/drupan.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/dssg.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/easystatic.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/eleventy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/endurojs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/enfield.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/expansive.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/expose.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/flatmarket.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/fledermaus.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/frog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/frozen-flask.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gatsby.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/generator-go-static.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gerablog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gitbook.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/glayu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gloria.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gor.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gostatic.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/grain.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/graze.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/griffin.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/grow.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/grunt-flats.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/grus.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gulp-makdoc.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gulp-site-generator.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gustav.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/gutenberg.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hakyll.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/halwa.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/harp.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hasclunk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hastie.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hastysite.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/heckle.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hepek.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hexo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hubpress.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hugo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/hyde.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/igapyonv3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/inkpaper.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/jaq.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/jbake.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/jekyll.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/jenny.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/jigsaw.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/jssg.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/jus.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/kotsu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/lambdapad.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/lektor.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/lerret.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/lingon.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/litepub.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/luapress.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/luxaura.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/madoko.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/makesite.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/mangony.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/markdown-styles.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/mdBook.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/metalsmith.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/middleman.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/mimogear.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/minerl.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/mini-site-generator.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/minimal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/misaki.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/mkdocs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/monkeyman.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/motyl.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/muleify.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/nanoc.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/nanogen.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/next.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/nikola.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/nuxt.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/obelisk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/octopress.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/onessg.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/orchid.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/ornate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/pagegen.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/pelican.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/perun.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/pft.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/phenomic.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/photish.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/phpoole.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/piecrust.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/plerd.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/poet.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/pollen.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/polo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/poltergeist.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/poole.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/pretzel.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/prosopopee.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/pub-server.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/punch.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/pykwiki.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/pystatic.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/qgoda.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/qpage.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/react-static.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/reem.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/reptar.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/rinco.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/rocadocs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/roots.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/rosid.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/ruhoh.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/s2gen.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/sapper.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/sasige.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/sblg.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/scalatic.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/sculpin.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/serif.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/serum.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/silex.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/simple.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/sitepipe.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/sitio.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/skf.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/skydocs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/spelt.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/sphinx.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/spike.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/spress.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/stagen.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/stasis.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/stati.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/static-lite.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/staticjinja.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/staticstuff.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/statie.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/statify.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/statik.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/stitcher.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/stog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/styx.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/susi.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/taft.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/tags.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/tapestry.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/tarbell.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/tclssg.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/techy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/templer.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/thumbsup.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/tinkerer.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/urubu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/usmu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/vite.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/vuepress.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/waffel.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/wainwright.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/weaver.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/webby.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/webgen.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/wheat.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/wintersmith.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/wok.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/wpstatichtmloutput.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/wpwmm4.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/wyam.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/yasbe.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/yellow.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/yst.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/zas.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/projects/zodiac.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/content/promo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/netlify.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/canner-dashboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/coisas-basic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/coisas-expanded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/coisas-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/forestry-ui-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/forestry-ui-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/forestry-ui.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/middleman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/netlify-cms1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/netlify-cms2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/netlify-cms3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/scrivito-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/staticgen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/strapi-content-manager.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/strapi-content-type-builder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/images/superdesk-ui.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/scripts/fetch-archive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/scripts/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/site.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/404.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/Footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/Hero.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/Nav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/NavLink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/ShareButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/App/styles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/Card.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/DataPoint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/DeployButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/Dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/DropdownGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/Home.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/OpenSourceStat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/Project.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Home/ProjectsList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/Project/Project.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/components/Container.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/components/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/images/netlify-logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/static.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticgen/yarn.lock" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/staticgen" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSpreadsheets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSpreadsheets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88545dc2-c273-42ec-ab01-2577fb000cae" name="Default" comment="" />
+      <created>1528885612970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528885612970</updated>
+      <workItem from="1528885614412" duration="1164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1164000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
